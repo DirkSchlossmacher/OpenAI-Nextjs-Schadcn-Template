@@ -9,7 +9,7 @@ import RunAssistantComponent from './RunAssistantComponent';
 import { Button } from "@/components/ui";
 
 export default function Page() {
-  const [assistantId, setAssistantId] = useState('asst_igoqULNOpKfZVsS8QTmiJpL8');
+  const [assistantId, setAssistantId] = useState('asst_M1ryL4NyLp8tcUb82TRZy1uR');
 
   return (
     <div>
