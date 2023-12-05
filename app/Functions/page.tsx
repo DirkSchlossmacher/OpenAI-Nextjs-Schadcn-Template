@@ -2,7 +2,7 @@ import React from 'react';
 import RunAssistantComponent from './RunAssistantComponent';
 
 const Page: React.FC = () => {
-  const assistantId = "asst_igoqULNOpKfZVsS8QTmiJpL8"; // Hardcoded assistantId
+  const assistantId = "asst_M1ryL4NyLp8tcUb82TRZy1uR"; // Hardcoded assistantId
 
   return (
     <div>
