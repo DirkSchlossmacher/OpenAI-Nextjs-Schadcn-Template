@@ -29,7 +29,7 @@ interface AssistantDetails {
 }
 
 export default function RetrieveAssistant() {
-  const [assistantId, setAssistantId] = useState<string>('asst_igoqULNOpKfZVsS8QTmiJpL8');
+  const [assistantId, setAssistantId] = useState<string>('asst_M1ryL4NyLp8tcUb82TRZy1uR');
   const [assistantDetails, setAssistantDetails] = useState<AssistantDetails | null>(null);
   const [loading, setLoading] = useState<boolean>(false);
 
